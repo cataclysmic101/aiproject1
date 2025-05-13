@@ -81,8 +81,3 @@ You can customize the maze by editing the `input.txt` file. The file format is a
 <obstacle_m_point_1_x> <obstacle_m_point_1_y> ... <obstacle_m_point_n_x> <obstacle_m_point_n_y>
 ```
 
-## 📝 Note
-
-The robot icon used in the visualization is loaded from a file named `robot.gif`. If you encounter issues with the robot icon, ensure the file is present in the project directory or modify the visualization code to use a different icon. 🛠️
-
-Feel free to explore, modify, and expand this project to suit your learning and development needs! Enjoy experimenting with different search algorithms and maze configurations! 🎉
