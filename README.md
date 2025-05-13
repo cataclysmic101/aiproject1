@@ -1,4 +1,4 @@
-# 🎮 Maze Solver Project
+# 🎮 Maze Solver Project with your customizations 
 
 Welcome to the Maze Solver Project! 🚀 This project implements different search algorithms to find a path through a maze. The algorithms include Breadth-first search, Uniform-cost search, Iterative deepening search, Greedy-best first search, and A* search.
 
