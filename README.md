@@ -67,7 +67,7 @@ Before you begin, ensure you have the following installed:
    - **Greedy-best first search**: Explores paths that seem to lead closer to the goal based on a heuristic.  
    - **A***: Uses a combination of path cost and heuristic to explore paths efficiently.  
 
-4. Watch the robot navigate the maze and see the path taken! 🤖
+4. Watch the arrow navigate the maze and see the path taken!  and complexity of the algoritms🤖
 
 ## 🎨 Customization
 
